@@ -1,0 +1,5 @@
+# Evidence and local artifacts
+evidence/**/*.log
+evidence/**/*.txt
+evidence/**/*.png
+evidence/**/*.json
