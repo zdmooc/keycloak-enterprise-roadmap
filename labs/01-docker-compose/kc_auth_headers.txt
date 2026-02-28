@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Set-Cookie: AUTH_SESSION_ID=5ab7cf5d-ecb9-4f45-8e29-280dee977c0b;Version=1;Path=/realms/demo/;Secure;HttpOnly;SameSite=None
+Cache-Control: no-store, must-revalidate, max-age=0
+Set-Cookie: KC_RESTART=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..Qv6e8BRZf5L7oxRu30JuaQ._IJKQgHZNrixfogXvSGeuqXYOVJ8TFr8D-2zCowIkL2Cnthl7eUDiSz6KI8dTqDWTexohhlqHbiOGWTCANB8FK9AOuj9IeWwqZYN7uq86ibEgn5mfG-EZI6_JrPjcnD0v7v6O54XI5USu7evesfsxBILWtjxjdc57TXlIuxQKklgkECnqB07bm53ai6_27JdwgDzQ_2ks9lmKeRd16ihPoWtHlzeIHXL6qu8vBThALrY60NsMJeCrVlRNWRYmWEJewWCKVYrLyPt3Z4NTAANlZR_mgoSyoeEb-gRjaKah-OFprTi6UAtvvIoohm3UmRZhycjrez8flsorejILN_ffgvTqLXi7kAMXsmawBQlnuCMjNTmBIpNtnm2uHYLDKuMCyhPEb_MpGhofV6k3gU8Cfe9CilAGj65avpHLNE4B4UbxN9xFpxz0JxpCX5PToXC8-1qRIQypcfH8f0OmUCRBy9r0cB7gz3_lMGoWC9Ly0j8yzQoEmi19J7EKJrBZxdQlZVPhzN_WYUcwE-29LuyPRHBdScDLuCFrfNK0TPI6pYGYxhqxwQsinmW6GsKjVFePI4o06ZW91jY4RIJKvVDStjqkmMd2r-igE2PZ81ZG4JaHfvX_Sw3StkEOFZCY-Hy_ssP23pAgZhwPdEz_IrdgC8BGMhn-ApBcwlJtJqdFAoYfwQ9gIUyuUw6czi4Hbk_e97OGW-1V_SRMW0MRGkzq5nh0FgzjI2alqdqYp0q19v-pTjg3D3NWjFPJha9qcx7qMfeWZ8erBNkEzvXdd9utV936CzNN5TBodQ2idjH_XdHfPUgTuoHC3EcwiFcob-2RBlifgrgS1pMVyr8gJuHXUub4QyOkthisI4KKfRr4uk.VTbffTwEk-eXnyrFxMF1TQ;Version=1;Path=/realms/demo/;Secure;HttpOnly;SameSite=None
+content-length: 5199
+Content-Language: en
+Content-Security-Policy: frame-src 'self'; frame-ancestors 'self'; object-src 'none';
+Content-Type: text/html;charset=utf-8
+Referrer-Policy: no-referrer
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Robots-Tag: none
+X-XSS-Protection: 1; mode=block
+

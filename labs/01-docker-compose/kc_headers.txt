@@ -1,0 +1,13 @@
+HTTP/1.1 302 Found
+Cache-Control: no-store, must-revalidate, max-age=0
+Location: http://localhost:18080/callback?error=invalid_request&error_description=Invalid+parameter%3A+code_challenge&iss=http%3A%2F%2Flocalhost%3A18080%2Frealms%2Fdemo
+Referrer-Policy: no-referrer
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+content-length: 0
+
+HTTP/1.1 404 Not Found
+content-length: 58
+Content-Type: application/json
+
