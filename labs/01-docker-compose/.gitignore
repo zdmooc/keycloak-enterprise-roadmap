@@ -1,0 +1,6 @@
+# Lab artifacts (do not commit)
+kc_*.txt
+kc_*.html
+kc_*.log
+run_pkce_flow.sh
+kc_cookies.txt
